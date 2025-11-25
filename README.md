@@ -130,7 +130,7 @@ AJAX but done in the 80s on PostScript.
 
 [^situation]: I'm not sure why Chrome even bothered to expose the JS
     runtime. They
-    [took the PDF reader code from Foxit](https://plus.google.com/+FrancoisBeaufort/posts/9wwSiWDDKKP),
+    [took the PDF reader code from Foxit](https://web.archive.org/web/20180601053815/https://plus.google.com/%2BFrancoisBeaufort/posts/9wwSiWDDKKP),
     so maybe Foxit had some particular client who relied on JavaScript
     form validation?
 
